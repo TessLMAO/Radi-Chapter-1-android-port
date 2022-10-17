@@ -1,0 +1,49 @@
+{
+	"storyName": "Radioactive Rencounter",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "radi",
+	"weekBefore": "",
+	"freeplayColor": [
+		35,
+		163,
+		11
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"keep out",
+			"radi",
+			[
+				35,
+				163,
+				11
+			]
+		],
+		[
+			"last warning",
+			"radi2",
+			[
+				35,
+				163,
+				11
+			]
+		],
+		[
+			"radiohazard",
+			"radi3",
+			[
+				35,
+				163,
+				11
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Radioactive Rencounter"
+}
