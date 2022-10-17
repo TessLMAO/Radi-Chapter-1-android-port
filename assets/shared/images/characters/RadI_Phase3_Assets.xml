@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RadI_Phase3_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Radi3_Down0000" x="100" y="0" width="1368" height="813" frameX="0" frameY="-7" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Radi3_Idle0000" x="1468" y="0" width="1040" height="955" frameX="-41" frameY="-25" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Idle0001" x="1468" y="0" width="1040" height="955" frameX="-41" frameY="-25" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Idle0002" x="0" y="955" width="1041" height="973" frameX="-19" frameY="-7" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Idle0003" x="0" y="955" width="1041" height="973" frameX="-19" frameY="-7" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Idle0004" x="1041" y="955" width="1042" height="980" frameX="0" frameY="0" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Idle0005" x="1041" y="955" width="1042" height="980" frameX="0" frameY="0" frameWidth="1088" frameHeight="980"/>
+	<SubTexture name="Radi3_Left0000" x="2508" y="0" width="1225" height="786" frameX="-46" frameY="-5" frameWidth="1271" frameHeight="791"/>
+	<SubTexture name="Radi3_Right0000" x="2508" y="786" width="1285" height="836"/>
+	<SubTexture name="Radi3_Up0000" x="2083" y="1622" width="992" height="1013" frameX="-49" frameY="0" frameWidth="1041" frameHeight="1013"/>
+</TextureAtlas>

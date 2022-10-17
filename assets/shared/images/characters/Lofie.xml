@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lofie.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LofieDown0000" x="100" y="0" width="319" height="780" frameX="-1" frameY="-7" frameWidth="325" frameHeight="787"/>
+	<SubTexture name="LofieDown0001" x="419" y="0" width="306" height="787" frameX="0" frameY="0" frameWidth="325" frameHeight="787"/>
+	<SubTexture name="LofieIdle0000" x="725" y="0" width="361" height="789" frameX="-6" frameY="-10" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieIdle0001" x="725" y="0" width="361" height="789" frameX="-6" frameY="-10" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieIdle0002" x="1086" y="0" width="352" height="795" frameX="-6" frameY="-4" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieIdle0003" x="1086" y="0" width="352" height="795" frameX="-6" frameY="-4" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieIdle0004" x="0" y="795" width="345" height="789" frameX="-8" frameY="-10" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieIdle0005" x="0" y="795" width="345" height="789" frameX="-8" frameY="-10" frameWidth="371" frameHeight="799"/>
+	<SubTexture name="LofieLeft0000" x="345" y="795" width="358" height="766" frameX="-3" frameY="-4" frameWidth="388" frameHeight="770"/>
+	<SubTexture name="LofieLeft0001" x="703" y="795" width="356" height="753" frameX="-32" frameY="-17" frameWidth="388" frameHeight="770"/>
+	<SubTexture name="LofieRight0000" x="1059" y="795" width="386" height="737" frameX="-3" frameY="-20" frameWidth="390" frameHeight="757"/>
+	<SubTexture name="LofieRight0001" x="1438" y="0" width="379" height="757" frameX="0" frameY="0" frameWidth="390" frameHeight="757"/>
+	<SubTexture name="LofieUp0000" x="1445" y="757" width="356" height="831" frameX="-4" frameY="0" frameWidth="385" frameHeight="831"/>
+	<SubTexture name="LofieUp0001" x="0" y="1588" width="356" height="819" frameX="-14" frameY="-12" frameWidth="385" frameHeight="831"/>
+</TextureAtlas>

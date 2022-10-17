@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Radi_Assets2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Radi_Down20000" x="100" y="0" width="1084" height="691" frameX="-19" frameY="-19" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Idle2 0000" x="1184" y="0" width="907" height="1001" frameX="0" frameY="-12" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle2 0001" x="1184" y="0" width="907" height="1001" frameX="0" frameY="-12" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle2 0002" x="0" y="1001" width="864" height="1012" frameX="-12" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle2 0003" x="0" y="1001" width="864" height="1012" frameX="-12" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle2 0004" x="864" y="1001" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle2 0005" x="864" y="1001" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Left20000" x="2091" y="0" width="1130" height="1005"/>
+	<SubTexture name="Radi_Right20000" x="1718" y="1005" width="1319" height="935" frameX="-68" frameY="0" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Up20000" x="1718" y="1940" width="989" height="1050" frameX="-10" frameY="0" frameWidth="1008" frameHeight="1050"/>
+</TextureAtlas>
